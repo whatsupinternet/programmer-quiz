@@ -1,0 +1,10 @@
+.radio label {
+    padding-left: 0;    
+}
+.help-block {
+    display: none;
+    font-style: italic;
+}
+    #yourresult {
+    display: none;
+}
